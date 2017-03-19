@@ -1,0 +1,12 @@
+2016-12-31 00:53:27,388 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websystique.springmvc:ReportFeed:1.0.0 @ F:\Downloads\Adstage1\PublisherReportFeeds\pom.xml.
+2016-12-31 00:53:36,586 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ReportFeed/src/main/java
+2016-12-31 00:53:36,587 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ReportFeed/src/main/resources
+2016-12-31 00:53:36,588 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ReportFeed/src/test/java
+2016-12-31 00:53:36,588 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ReportFeed/src/test/resources
+2016-12-31 00:53:36,861 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websystique.springmvc:ReportFeed:1.0.0 @ F:\Downloads\Adstage1\PublisherReportFeeds\pom.xml.
+2016-12-31 00:53:41,825 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 23 sec
+2016-12-31 00:53:48,917 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.websystique.springmvc:ReportFeed:1.0.0 @ F:\Downloads\Adstage1\PublisherReportFeeds\pom.xml.
+2016-12-31 00:53:51,458 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-31 00:53:51,526 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-12-31 00:53:51,538 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-31 00:53:51,539 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 14 resources

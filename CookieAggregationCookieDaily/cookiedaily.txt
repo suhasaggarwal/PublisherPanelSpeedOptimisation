@@ -1,0 +1,3492 @@
+ES_TEST_HOST enviroment variable does not exist. choose default 'localhost'
+ES_TEST_PORT enviroment variable does not exist. choose default '9300'
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 1
+Categorisation Data Updated
+
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 1
+Categorisation Data Updated
+
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 1
+Categorisation Data Updated
+
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 1
+Categorisation Data Updated
+
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 1
+Categorisation Data Updated
+
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 1
+Categorisation Data Updated
+
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 1
+Categorisation Data Updated
+
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 1
+Categorisation Data Updated
+
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 1
+Categorisation Data Updated
+
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 1
+Categorisation Data Updated
+
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 1
+Categorisation Data Updated
+
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 1
+Categorisation Data Updated
+
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 1
+Categorisation Data Updated
+
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 1
+Categorisation Data Updated
+
+Searching Records: for fingerprints
+Current results: 1
+Categorisation Data Updated
+
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 1
+Categorisation Data Updated
+
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 1
+Categorisation Data Updated
+
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 1
+Categorisation Data Updated
+
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 1
+Categorisation Data Updated
+
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 1
+Categorisation Data Updated
+
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 1
+Categorisation Data Updated
+
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 1
+Categorisation Data Updated
+
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 1
+Categorisation Data Updated
+
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 1
+Categorisation Data Updated
+
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 1
+Categorisation Data Updated
+
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 1
+Categorisation Data Updated
+
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 1
+Categorisation Data Updated
+
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 1
+Categorisation Data Updated
+
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 1
+Categorisation Data Updated
+
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 1
+Categorisation Data Updated
+
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 1
+Categorisation Data Updated
+
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 1
+Categorisation Data Updated
+
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 1
+Categorisation Data Updated
+
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 1
+Categorisation Data Updated
+
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0
+Searching Records: for fingerprints
+Current results: 0

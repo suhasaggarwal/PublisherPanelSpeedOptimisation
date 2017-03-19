@@ -1,0 +1,1 @@
+INDEX VERSION 1.127+F:\Advertiser-Publisher-Report-APIs-master\Advertiser-Publisher-Report-APIs-master\PublisherReportFeeds\.metadata\.plugins\org.eclipse.jdt.core
